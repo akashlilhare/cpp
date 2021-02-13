@@ -27,14 +27,6 @@ using namespace std;
 
 // Function to return if the paranthesis are balanced or not
 
-char corr(char ch){
-    if(ch == '{' )
-        return '}';
-    if(ch == '[' )
-        return ']';
-    if(ch == '(' )
-        return ')';
-}
 bool ispar(string x)
 {
     stack<char> s;
