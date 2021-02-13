@@ -132,7 +132,7 @@ reverseDLL(next);
 }
 
 }
-
+c
 int main(){
     node* head = NULL;
     int n;
