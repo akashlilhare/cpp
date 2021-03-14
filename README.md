@@ -1,3 +1,3 @@
 # C++
 
-#### DSA problem solveing using C++
+#### DSA problem solution using C++
